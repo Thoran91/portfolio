@@ -11,7 +11,8 @@
   font-size: calc(20px + 2vmin);
   color: black;
   background-position: center center;
-  opacity: 0.9;
+  opacity: 0.95;
+  text-shadow: 1px 1px 1px rgba(150, 150, 150, 0.43);
 }
 
 .App-header img {

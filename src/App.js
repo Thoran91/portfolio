@@ -15,7 +15,7 @@ function App() {
       <body>
         <div class="project-list">
           <ul>
-            <li>Project 1</li>
+            <li><a href="http://www.flyinvite.co/">Fly Invite</a></li>
             <li>Project 2</li>
             <li>Project 3</li>
             <li>Project 4</li>
