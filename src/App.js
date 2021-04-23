@@ -49,10 +49,10 @@ function App() {
           </div>
           <div class="project">
               <div class="project-image">
-                <img src="https://res.cloudinary.com/tom-horan/image/upload/v1618925750/gxpo2dzkyuyvcdcp0fir.png" alt="Flyinvite"></img>
+                <img src="https://res.cloudinary.com/tom-horan/image/upload/v1619179435/undefined_hrtjk3.png" alt="Mr. Cocktail"></img>
               </div>
               <div class="project-text">
-                <a href="http://www.flyinvite.co/">Flyinvite</a>
+                <a href="http://www.flyinvite.co/">Mr. Cocktail</a>
                   <p>
                     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                   </p>
@@ -60,10 +60,10 @@ function App() {
             </div>
             <div class="project">
               <div class="project-image">
-                <img src="https://res.cloudinary.com/tom-horan/image/upload/v1618925750/gxpo2dzkyuyvcdcp0fir.png" alt="Flyinvite"></img>
+                <img src="https://res.cloudinary.com/tom-horan/image/upload/v1619179420/dxl37tcwxij89u78mhzw.png" alt="Pigknits"></img>
               </div>
               <div class="project-text">
-                <a href="http://www.flyinvite.co/">Flyinvite</a>
+                <a href="http://www.flyinvite.co/">Pigknits</a>
                   <p>
                     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
                   </p>
