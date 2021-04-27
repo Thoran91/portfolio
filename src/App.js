@@ -38,34 +38,41 @@ function App() {
         <div class="project-list">
           <div class="project">
             <div class="project-image">
-              <img src="https://res.cloudinary.com/tom-horan/image/upload/v1618925750/gxpo2dzkyuyvcdcp0fir.png" alt="Flyinvite"></img>
+              <a href="http://www.flyinvite.co/">
+                <img src="https://res.cloudinary.com/tom-horan/image/upload/v1618925750/gxpo2dzkyuyvcdcp0fir.png" alt="Flyinvite"></img>
+              </a>
             </div>
             <div class="project-text">
               <a href="http://www.flyinvite.co/">Flyinvite</a>
                 <p>
-                  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                Flyinvite is a Ruby On Rails app that allows event organisers to coordinate flight bookings for professional and private groups.<br/><br/>
+                With just an event destination and start and end dates, the organiser can find in-budget flights using the built in flight-search API, and then forward any approved flight options to potential passengers. Both organisers and passengers keep perisstent user accounts and can keep records of their past and future flights within the app. I was responsible for the front end, which was a combination of html, scss, javascript and a heavily-customised Metronic front-end template. The project was wireframed in Figma and coordinated using Asana. 
                 </p>
             </div>
           </div>
           <div class="project">
               <div class="project-image">
-                <img src="https://res.cloudinary.com/tom-horan/image/upload/v1619179435/undefined_hrtjk3.png" alt="Mr. Cocktail"></img>
+                <a href="http://www.flyinvite.co/">
+                  <img src="https://res.cloudinary.com/tom-horan/image/upload/v1619179435/undefined_hrtjk3.png" alt="Mr. Cocktail"></img>
+                </a>
               </div>
               <div class="project-text">
-                <a href="">Mr. Cocktail</a>
+                <a href="http://www.flyinvite.co/">Mr. Cocktail</a>
                   <p>
-                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    Mr. Cocktail is a simple Ruby on Rails app designed to showcase the skills I learned during the Le Wagon Web Development Bootcamp.<br/><br/>The user provides an image and name to create a cocktail recipe. The user can then add and remove ingredients, with everything stored on the app's PostgreSQL database. 
                   </p>
               </div>
             </div>
             <div class="project">
               <div class="project-image">
-                <img src="https://res.cloudinary.com/tom-horan/image/upload/v1619179420/dxl37tcwxij89u78mhzw.png" alt="Pigknits"></img>
+                <a href="https://www.pigknits.com/">
+                  <img src="https://res.cloudinary.com/tom-horan/image/upload/v1619179420/dxl37tcwxij89u78mhzw.png" alt="Pigknits"></img>
+                </a>
               </div>
               <div class="project-text">
                 <a href="https://www.pigknits.com/">Pigknits</a>
                   <p>
-                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    Pigknits is a React/Node.js web app that generates a user-customized jumper knitting pattern.<br/><br/>I provided the developer, Kathryn Birkett, with design advice and produced a Figma template. 
                   </p>
               </div>
             </div>

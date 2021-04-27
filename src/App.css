@@ -52,7 +52,7 @@
   margin: 10vh;
   padding: 5vh;
   border-radius: 1vh;
-  background: rgb(230, 229, 229);
+  background: rgb(252, 249, 249);
   box-shadow: 2px 4px 19px -5px rgba(0,0,0,0.76);
 
   display: grid;
@@ -71,6 +71,11 @@
   font-size: 40px;
   text-decoration: none;
   color: rgb(0, 0, 0);
+  opacity: 0.8;
+}
+
+a:hover {
+  opacity: 1;
 }
 
 .project-text p {
@@ -80,4 +85,5 @@
 .project img {
 max-width: 60vh;
 }
+
 
