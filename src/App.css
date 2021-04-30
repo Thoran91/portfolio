@@ -13,7 +13,6 @@
   font-size: calc(20px + 2vmin);
   color: black;
   background-position: center center;
-  text-shadow: 0.5px 1px 1px rgb(255, 255, 255);
 }
 
 .App-header img {
@@ -35,6 +34,7 @@
   margin-top: 10vh;
   margin-left: 10vh;
   margin-bottom: 3vh;
+  text-shadow: 0.5px 1px 1px rgb(255, 255, 255);
 }
 
 .stack i {

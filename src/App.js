@@ -52,12 +52,12 @@ function App() {
           </div>
           <div class="project">
               <div class="project-image">
-                <a href="http://www.flyinvite.co/">
+                <a href="https://thoran-mr-cocktail.herokuapp.com/">
                   <img src="https://res.cloudinary.com/tom-horan/image/upload/v1619179435/undefined_hrtjk3.png" alt="Mr. Cocktail"></img>
                 </a>
               </div>
               <div class="project-text">
-                <a href="http://www.flyinvite.co/">Mr. Cocktail</a>
+                <a href="https://thoran-mr-cocktail.herokuapp.com/">Mr. Cocktail</a>
                   <p>
                     Mr. Cocktail is a simple Ruby on Rails app designed to showcase the skills I learned during the Le Wagon Web Development Bootcamp.<br/><br/>The user provides an image and name to create a cocktail recipe. The user can then add and remove ingredients, with everything stored on the app's PostgreSQL database. 
                   </p>
