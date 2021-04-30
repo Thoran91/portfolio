@@ -84,6 +84,7 @@ a:hover {
 
 .project img {
 max-width: 60vh;
+box-shadow: 2px 4px 19px -5px rgba(0,0,0,0.76);
 }
 
 

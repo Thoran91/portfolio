@@ -66,7 +66,7 @@ function App() {
             <div class="project">
               <div class="project-image">
                 <a href="https://www.pigknits.com/">
-                  <img src="https://res.cloudinary.com/tom-horan/image/upload/v1619179420/dxl37tcwxij89u78mhzw.png" alt="Pigknits"></img>
+                  <img src="https://res.cloudinary.com/tom-horan/image/upload/c_crop,g_south_east,h_1080,w_1920,x_100,y_100/v1619179420/dxl37tcwxij89u78mhzw.png" alt="Pigknits"></img>
                 </a>
               </div>
               <div class="project-text">
