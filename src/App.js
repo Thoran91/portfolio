@@ -37,7 +37,7 @@ function App() {
         </header>
         <body>
           <div class="project-list">
-            <div class="project">
+            <div class="project flex">
               <div class="project-image">
                 <a href="http://www.flyinvite.co/">
                   <img src="https://res.cloudinary.com/tom-horan/image/upload/v1618925750/gxpo2dzkyuyvcdcp0fir.png" alt="Flyinvite"></img>

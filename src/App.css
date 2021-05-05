@@ -1,10 +1,14 @@
+.container {
+  margin: 0px;
+}
+
 .App-header {
   background-image: 
     linear-gradient(to right, rgba(255, 255, 255, 0.2), rgba(255, 20, 20, 0.2)),
     url("https://res.cloudinary.com/tom-horan/image/upload/v1618494442/LeWagonPicTH_r8xt8v.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  min-height: 80vh;
+  max-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -22,33 +26,36 @@
 
 .header-text {
   max-width: 80vh;
-  margin-left: 10vh;
+  min-width: 10vh;
+
+  margin-left: 5vh;
+  margin-right: 5vh;
   margin-bottom: 0px;
   margin-top: 10vh;
+
   font-family: 'Inter', sans-serif;
 }
 
 .stack {
-  max-width: 80vh;
+  max-width: 60vh;
   margin-top: 10vh;
-  margin-left: 10vh;
+  margin-left: 5vh;
   margin-bottom: 3vh;
   text-shadow: 0.5px 1px 1px rgb(255, 255, 255);
 }
 
 .stack i {
-  font-size: 4rem;
-  margin: 2rem;
+  font-size: calc(10px + 2rem);
+  margin: 1rem;
   text-shadow: 1px 1px 1px rgb(255, 250, 250);
 }
 
 .project-list {
-  min-width: 60vh;
   align-items: center;
 }
 
 .project {
-  margin: 10vh;
+  margin: 5vh;
   padding: 5vh;
   border-radius: 1vh;
   background: rgb(252, 249, 249);
@@ -57,12 +64,11 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
 
-  min-width: 500px;
   max-width: 200vh;
 }
 
 .project-text {
-  min-width: 300px;
+
 }
 
 .project-text a {
