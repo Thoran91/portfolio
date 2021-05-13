@@ -5,10 +5,11 @@ function App() {
   return (
     <div className="App">
       <div class="container">
-        <header className="App-header">
+        <header className="app-header">
           <link rel="preconnect" href="https://fonts.gstatic.com"></link>
           <link href="https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap" rel="stylesheet"></link>
           <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css"></link>
+          <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></link>
           <h1 class="header-text">
             Tom Horan
           <br/>
@@ -79,6 +80,9 @@ function App() {
               </div>
           </div>
         </body>
+        <footer className="app-footer">
+          <a href="mailto:tomhoran91@gmail.com"><i class="fas fa-envelope"></i></a>
+        </footer>
       </div>
     </div>
     

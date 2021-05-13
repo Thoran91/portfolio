@@ -2,7 +2,7 @@
   margin: 0px;
 }
 
-.App-header {
+.app-header {
   background-image: 
     linear-gradient(to right, rgba(255, 255, 255, 0.2), rgba(255, 20, 20, 0.2)),
     url("https://res.cloudinary.com/tom-horan/image/upload/v1618494442/LeWagonPicTH_r8xt8v.jpg");
@@ -67,10 +67,6 @@
   max-width: 200vh;
 }
 
-.project-text {
-
-}
-
 .project-text a {
   font-size: 40px;
   text-decoration: none;
@@ -79,7 +75,9 @@
 
 }
 
-a:hover {
+.project-text a:hover {
+  text-decoration: none;
+  color: black;
   opacity: 1;
 }
 
@@ -92,4 +90,31 @@ max-width: 90%;
 box-shadow: 2px 4px 19px -5px rgba(0,0,0,0.76);
 }
 
+.app-footer {
+  margin: 5vh;
+  padding: 5vh;
+  border-radius: 1vh;
+  background: rgb(252, 249, 249);
+  box-shadow: 2px 4px 19px -5px rgba(0,0,0,0.76);
+  max-width: 200vh;
 
+  font-family: 'Inter', sans-serif;
+
+}
+
+.app-footer a {
+ color: black;
+ opacity: 0.8;
+ text-decoration: none;
+}
+
+
+.app-footer a:hover {
+  color: black;
+  opacity: 1;
+  text-decoration: none;
+}
+
+.app-footer i {
+  color: black;
+}
