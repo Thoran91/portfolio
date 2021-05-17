@@ -52,7 +52,7 @@ function App() {
                   </p>
               </div>
             </div>
-            <div class="project">
+            <div class="project flex">
                 <div class="project-image">
                   <a href="https://thoran-mr-cocktail.herokuapp.com/">
                     <img src="https://res.cloudinary.com/tom-horan/image/upload/v1619179435/undefined_hrtjk3.png" alt="Mr. Cocktail"></img>
@@ -65,7 +65,7 @@ function App() {
                     </p>
                 </div>
               </div>
-              <div class="project">
+              <div class="project flex">
                 <div class="project-image">
                   <a href="https://www.pigknits.com/">
                     <img src="https://res.cloudinary.com/tom-horan/image/upload/c_crop,g_south_east,h_1080,w_1920,x_100,y_100/v1619179420/dxl37tcwxij89u78mhzw.png" alt="Pigknits"></img>
@@ -80,8 +80,10 @@ function App() {
               </div>
           </div>
         </body>
-        <footer className="app-footer">
-          <a href="mailto:tomhoran91@gmail.com"><i class="fas fa-envelope"></i></a>
+        <footer className="app-footer d-flex">
+          <a href="mailto:tomhoran91@gmail.com"><i class="fa fa-envelope email-red fa-2x"></i>thorandev91@gmail.com</a>
+          <a href="https://www.linkedin.com/in/tom-horan/"><i class="fa fa-linkedin linkedin-blue fa-2x"></i>LinkedIn</a>
+          <a href="https://github.com/Thoran91"><i class="fa fa-github-square github-purple fa-2x"></i>GitHub</a>
         </footer>
       </div>
     </div>

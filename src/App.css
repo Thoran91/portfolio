@@ -57,7 +57,7 @@
 .project {
   margin: 5vh;
   padding: 5vh;
-  border-radius: 1vh;
+  border-radius: 1px;
   background: rgb(252, 249, 249);
   box-shadow: 2px 4px 19px -5px rgba(0,0,0,0.76);
 
@@ -92,22 +92,25 @@ box-shadow: 2px 4px 19px -5px rgba(0,0,0,0.76);
 
 .app-footer {
   margin: 5vh;
-  padding: 5vh;
+  padding: 1vh;
   border-radius: 1vh;
   background: rgb(252, 249, 249);
+
   box-shadow: 2px 4px 19px -5px rgba(0,0,0,0.76);
+  border-radius: 1px;
   max-width: 200vh;
 
   font-family: 'Inter', sans-serif;
+  justify-content: center;
 
 }
 
 .app-footer a {
- color: black;
- opacity: 0.8;
- text-decoration: none;
+  color: black;
+  opacity: 0.9;
+  text-decoration: none;
+  margin: 10px;
 }
-
 
 .app-footer a:hover {
   color: black;
@@ -115,6 +118,20 @@ box-shadow: 2px 4px 19px -5px rgba(0,0,0,0.76);
   text-decoration: none;
 }
 
-.app-footer i {
-  color: black;
+.email-red {
+  color: #C53738;
+  text-shadow: 0.5px 1px 1px rgb(0, 0, 0);
+  margin: 5px;
+}
+
+.linkedin-blue {
+  color: #0A66C2;
+  text-shadow: 0.5px 1px 1px rgb(0, 0, 0);
+  margin: 5px;
+}
+
+.github-purple {
+  color: #6e5494;
+  text-shadow: 0.5px 1px 1px rgb(0, 0, 0);
+  margin: 5px;
 }
