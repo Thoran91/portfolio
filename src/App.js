@@ -4,7 +4,6 @@ function App() {
 
   return (
     <div className="App">
-      <script src="https://kit.fontawesome.com/7b66af3075.js" crossorigin="anonymous"></script>
       <div class="container">
         <header className="app-header">
           <link rel="preconnect" href="https://fonts.gstatic.com"></link>
